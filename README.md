@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+## About Me
+Welcome to my GitHub profile! I'm Vamshi Gopari, a passionate Software Engineer seeking breakthrough opportunities to elevate my career to new heights, with a focus on Java development and a keen interest in exploring data engineering technologies. My journey in software engineering has equipped me with solid skills in building scalable and efficient microservices, and I'm now venturing into the world of data engineering to broaden my horizons and contribute to cutting-edge data-driven solutions.
+
+
 <!--
 **vgopari/vgopari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
