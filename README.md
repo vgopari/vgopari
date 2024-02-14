@@ -1,6 +1,12 @@
 ## 💫 About Me
 Welcome to my GitHub profile! I'm Vamshi Gopari, a passionate Software Engineer seeking breakthrough opportunities to elevate my career to new heights, with a focus on Java development.
 
+#### 🔭 I’m currently working on:
+Engaged in Microservices Architecture Implementation🚀 and Enhancing Data Engineering Skills
+
+#### 👯 I’m looking to collaborate on:
+Fullstack projects
+
 #### 🌱 I’m currently learning:
 Apache Kafka<img src="https://icon.icepanel.io/Technology/svg/Apache-Kafka.svg" width="20px" height="13px">, Apache Airflow<img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="20px" height="13px">
 
