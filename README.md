@@ -8,7 +8,7 @@ Engaged in Microservices Architecture Implementation🚀 and Enhancing Data Engi
 Fullstack projects
 
 #### 🌱 I’m currently learning:
-Apache Kafka<img src="https://icon.icepanel.io/Technology/svg/Apache-Kafka.svg" width="20px" height="13px">, PyTorch<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="50px" height="25px">
+Apache Kafka<img src="https://icon.icepanel.io/Technology/svg/Apache-Kafka.svg" width="20px" height="13px">, PyTorch<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="50px" height="20px">
 
 ## 🎓 Certifications:
 <a href="https://www.credential.net/1c20eaa0-dfe1-45a8-bd38-4e734fadd232" target="_blank"><img src="https://github.com/vgopari/vgopari/assets/47558150/fec00c79-dcb9-4019-8704-c4c57d2826d3" width="220px" height="220px"></a>
