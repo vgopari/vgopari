@@ -1,5 +1,7 @@
 ## 💫 About Me
-Welcome to my GitHub profile! I'm Vamshi Gopari, a passionate Software Engineer seeking breakthrough opportunities to elevate my career to new heights, with a focus on Java development.
+Welcome to my GitHub profile! I'm Vamshi Gopari, a passionate Software Engineer seeking breakthrough opportunities to elevate my career to new heights, with a focus on Full Stack development.
+
+Check out my [personal portfolio website](https://vgopari.github.io/portfolio) to see my projects, skills, and professional journey!
 
 #### 🔭 I’m currently working on:
 Engaged in Microservices Architecture Implementation🚀 and Enhancing Data Engineering Skills
